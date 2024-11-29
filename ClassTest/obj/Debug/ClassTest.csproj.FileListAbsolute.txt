@@ -1,0 +1,10 @@
+D:\CShop\ClassTest\ClassTest\bin\Debug\ClassTest.exe.config
+D:\CShop\ClassTest\ClassTest\bin\Debug\ClassTest.exe
+D:\CShop\ClassTest\ClassTest\bin\Debug\ClassTest.pdb
+D:\CShop\ClassTest\ClassTest\obj\Debug\ClassTest.csprojAssemblyReference.cache
+D:\CShop\ClassTest\ClassTest\obj\Debug\ClassTest.frmMain.resources
+D:\CShop\ClassTest\ClassTest\obj\Debug\ClassTest.Properties.Resources.resources
+D:\CShop\ClassTest\ClassTest\obj\Debug\ClassTest.csproj.GenerateResource.cache
+D:\CShop\ClassTest\ClassTest\obj\Debug\ClassTest.csproj.CoreCompileInputs.cache
+D:\CShop\ClassTest\ClassTest\obj\Debug\ClassTest.exe
+D:\CShop\ClassTest\ClassTest\obj\Debug\ClassTest.pdb
